@@ -2,7 +2,6 @@
 
 Angular v6 component
 
-You can define an element such as a div that can be resized
 
 
 [Demo](https://liangshen001.github.io/resize-border/)
@@ -97,8 +96,3 @@ Positioned element
 
 
 `note: To facilitate the operation of the minHeight and minWidth property, try to set it to be larger than 8px`
-
-## Contributers
-
-
-wangliang520wl@hotmail.com
